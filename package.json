@@ -1,0 +1,13 @@
+{
+  "name": "PhoneWebsite",
+  "version": "1.0.0",
+  "dependencies": {
+    "axios": "^1.6.5",
+    "cheerio": "^1.0.0-rc.12",
+    "commandkit": "^0.1.10",
+    "env": "^0.0.2",
+    "fs": "^0.0.1-security",
+    "node-fetch": "^3.3.2",
+    "nodemon": "^3.0.3"
+  }
+}
